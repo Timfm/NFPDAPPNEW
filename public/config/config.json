@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x48B1CeFA8064C23CD50D8F27F636768B4C30e5EB",
+  "SCAN_LINK": "https://polygonscan.com/token/0x48B1CeFA8064C23CD50D8F27F636768B4C30e5EB",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "NON FUNGILE PUNKS",
+  "SYMBOL": "NFP",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 1500000000000000000,
+  "DISPLAY_COST": 1.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/non-fungile-punks",
+  "SHOW_BACKGROUND": true
+}
